@@ -7,3 +7,6 @@
 	Ces messieurs me disent : 
 	Trempez là dans l’huile, 
 	Trempez là dans l’eau,
+	
+	Ça fera un escargot
+	Tout chaud.
